@@ -9,6 +9,7 @@ public class ClassA {
 		System.out.println("First Push");
 		System.out.println("Fourth Push");
 		System.out.println("9 Push");
+		System.out.println("10 Push");
 		
 		
 	}
