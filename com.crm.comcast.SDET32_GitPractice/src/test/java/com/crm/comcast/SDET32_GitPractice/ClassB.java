@@ -8,6 +8,7 @@ public class ClassB {
 	public void demoTest() {
 		System.out.println("Second Push");
 		System.out.println("Second Push");
+		System.out.println("20 push");
 	
 	}
 }
