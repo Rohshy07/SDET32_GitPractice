@@ -7,8 +7,10 @@ public class ClassC {
 	public void demoTest() {
 		System.out.println("Third Push");
 		System.out.println("Sixth Push");
-		
-		
+		System.out.println("Fifth Push");
+		System.out.println("Tenth Push");
+		System.out.println("eleventh Push");
+
 	}
 
 }
